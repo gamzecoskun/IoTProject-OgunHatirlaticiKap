@@ -3,7 +3,7 @@
 KOCAELI ÜNIVERSITESI TEKNOLOJI FAKÜLTESI BILISIM SISTEMLERI MÜHENDISLIGI 3. SINIF
 NESNELERIN INTERNETI PROJESI
 ÖĞÜN HATIRLATICI KAP PROJESI
-HAZIRLAYANLAR : Gamze COSKUN, Hazal EROGLU, Magbula DEGER, Rümeysa Mumcu
+HAZIRLAYANLAR : Gamze COSKUN(151307020), Hazal EROGLU(151307002), Magbula DEGER(151307066), Rümeysa Mumcu(151307041)
 ÖGRETIM GÖREVLISI : Ugur YILDIZ
 Agirlik sensörlü kap projesiyle, diyet yapanlara, yemegini belirli bir zamanda yemesi gerekenlere belirli saatler geçtikten sonra eger kap doluysa, mesaj yoluyla hatirlatma yaparak düzenlerini saglamayi amaçladik. 
 Kullanilan Malzemeler : Raspberry Pi 3, HX711 Çift Kanal Tarti Sensörü Modülü, Uzun Load Agirlik Sensörü (0-5 KG), Jumper Kablo
