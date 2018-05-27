@@ -1,8 +1,8 @@
-# IoTProject-AgirlikSensorluKap
-Ağırlık Sensörlü Kap Projesi
+# IoTProject-OgunHatirlaticiKap
+Öğün Hatırlatıcı Kap Projesi
 KOCAELI ÜNIVERSITESI TEKNOLOJI FAKÜLTESI BILISIM SISTEMLERI MÜHENDISLIGI 3. SINIF
 NESNELERIN INTERNETI PROJESI
-AGIRLIK SENSÖRLÜ KAP PROJESI
+ÖĞÜN HATIRLATICI KAP PROJESI
 HAZIRLAYANLAR : Gamze COSKUN, Hazal EROGLU, Magbula DEGER, Rümeysa Mumcu
 ÖGRETIM GÖREVLISI : Ugur YILDIZ
 Agirlik sensörlü kap projesiyle, diyet yapanlara, yemegini belirli bir zamanda yemesi gerekenlere belirli saatler geçtikten sonra eger kap doluysa, mesaj yoluyla hatirlatma yaparak düzenlerini saglamayi amaçladik. 
